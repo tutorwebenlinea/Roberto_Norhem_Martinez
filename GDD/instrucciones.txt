@@ -5,16 +5,21 @@
 - Hacer un escrito que contenga, nombre, nombre del juego y plataforma, informacion de release y developers, review (que cosas les gustan y funcionan, que cosas no) overall, imagen best part or worst part
 - Puede ser en ingles, buena otrografia.
 
-
+/////////////////////////////////////////////////////////////////////////////
 0002
 Hacer una lista de (10) generos con ejemplos
-- nombre del juego - plataforma - genero (pueden poner imagenes del juego)
-a esa lista agregarle (5) juegos que el genero sea hibrido
-ejemplo
+
+- nombre del juego 
+- plataforma 
+- genero (pueden poner imagenes del juego) a esa lista agregarle (5) juegos que el genero sea hibrido
+
+Ejemplo
 
 
-- Nier Automata - Xbox, PC, PS4- Third Person, Hack & Slash, Bullet Hell, Shooter, RPG
-
+- Nier Automata 
+- Xbox, PC, PS4 
+- Third Person, Hack & Slash, Bullet Hell, Shooter, RPG
+/////////////////////////////////////////////////////////////////////////////
 
 0003
 
