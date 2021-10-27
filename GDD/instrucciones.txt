@@ -1,8 +1,9 @@
 
 0001
-- Escoger un juego (preferiblemente que hayan acabado o jugado varias horas) reciente de los ultimos a~os
+- Escoger un juego (preferiblemente que hayan acabado o jugado varias horas) reciente de los ultimos años.
+
 - Hacer un escrito que contenga, nombre, nombre del juego y plataforma, informacion de release y developers, review (que cosas les gustan y funcionan, que cosas no) overall, imagen best part or worst part
-- Puede ser en ingles, buena otrografia
+- Puede ser en ingles, buena otrografia.
 
 
 0002
