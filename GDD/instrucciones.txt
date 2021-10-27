@@ -1,0 +1,85 @@
+
+0001
+- Escoger un juego (preferiblemente que hayan acabado o jugado varias horas) reciente de los ultimos a~os
+- Hacer un escrito que contenga, nombre, nombre del juego y plataforma, informacion de release y developers, review (que cosas les gustan y funcionan, que cosas no) overall, imagen best part or worst part
+- Puede ser en ingles, buena otrografia
+
+
+0002
+Hacer una lista de (10) generos con ejemplos
+- nombre del juego - plataforma - genero (pueden poner imagenes del juego)
+a esa lista agregarle (5) juegos que el genero sea hibrido
+ejemplo
+
+
+- Nier Automata - Xbox, PC, PS4- Third Person, Hack & Slash, Bullet Hell, Shooter, RPG
+
+
+0003
+
+Build a Mood Board that tells a story and some mechanics for a videogames (open theme)
+- Titulo de el juego
+- genero, tema, plataforma
+- todas las imagenes en un canvas
+- no utilizar imagenes de otros juegos ni personajes ni backgrounds de juegos
+- puede utilizar de manga, animacion o peliculas
+
+En el moodboard tiene que estar representado personaje, lugares, mecanicas y estilo, sean creativos
+suban un .jpg o imagen del moodboard
+
+
+0004
+
+ hacer una lista de todas las mecanicas (comenzar con las unicas y diferentes) de un juego reciente (PS4, Nintendo Switch, XBOX, VR, PC)
+- No usarlos siguientes ejemplos, mario, farcry, pokemon, just cause
+
+
+0005
+
+- Idea/ juego que presentaron- Utilizar fonts y colores en el titulo que representen su tema y juego, interesante y creativo
+(www.dafont.com, photoshop,illustrator)
+13.3 X 7.5 (INCHES) Medida de slide en power point
+
+- Ir montando PowerPoint presentation o Slides
+-screenshot o .jpg o .png
+
+
+0006
+
+
+- Plataforma:
+- Genero:
+- Tema:
+- Rating: (Everyone, Teen, Mature) http://www.esrb.org/
+- Online o Single (DLC contenido)
+-Descripcion de el Juego (una oracion o dos)
+-Historia (de que trata, sencillo, 2 a 3 parrafos) principio / climax / resolucion
+- Pilares de Storytelling
+
+
+0007
+
+- arte de personaje principal (digital, dibujo, sketch, color, blanco y negro)
+- Cuerpo completo
+- Blanco y negro, color, digital (como se les haga mas facil)
+- subir imagen o .jpg, .png
+- Nombre del personaje y 3 oraciones que lo describan
+
+
+
+0008
+
+
+- Control template de los comandos
+- Que hacen los botones (de la plataforma que va a usar, main)
+- Lista con todas las mecánica y combinación de controles
+- vean los ejemplos - ejemplo es de estudiante
+
+
+
+0009
+
+
+ menus del juego desde start sceen, menus en el gameplay (inventory, skills, mapa, etc.) gameover
+- utilizar Illustrator o www.draw.io para hacer el diagrama.
+- usen de referencia juegos parecidos vean los menus
